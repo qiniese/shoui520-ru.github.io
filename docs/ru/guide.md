@@ -1,30 +1,30 @@
-# Japanese Guide
+# Руководство по японскому
 
-*If you don't need a preface, please skip to [2.1 How to learn Japanese](#21-how-to-learn-japanese)*  
+*Если Вы не хотите читать предисловие, то пропустите до [2.1 Как учить японский](#21-как-учить-японский)*  
 
-## 1.1 Why many people "fail" to learn Japanese
+## 1.1 Почему многие люди “проваливаются” в изучении японского
   
-Many people have simple goals in mind when learning Japanese: to enjoy untranslated Japanese content and to speak Japanese fluently. You'll hear everyone say something along those lines when asked about their learning goals. However, many also fail to reach these goals even after years of study. Is the language just too hard? Are they just not studying hard enough?
+Многие люди ставят простые цели при изучении японского: они хотят наслаждаться контентом без перевода и бегло говорить на японском. Все так ответят, если спросить их о целях при обучении. Однако, многие также не могут достичь этих целей даже после долгих лет изучения. Это из-за того, что язык настолько сложный? Или они недостаточно упорно учатся?
   
-I believe it's actually not their fault, but rather the method's. In language learning, the method behind your learning makes a huge difference in the kind of progress you make.
+Я считаю, что это не вина людей, а скорее метода. При изучении языков метод, который вы используете, сильно влияет на прогресс, что вы сделаете.
 
-As it turns out, reaching such goals is not possible with "traditional" methods of Japanese learning. Many students are led to failure for not including a crucial ingredient, **immersion**, into their study routines. **Immersion** refers to listening to or reading native content made for native speakers. For example, anime is originally in Japanese without subtitles, so when consumed in this form, we call it immersion.   
+Как оказывается, достижение таких целей невозможно при использовании “традиционных” методов изучения японского языка. Многих учащихся приводит к провалу то, что они не включают в свой распорядок при изучении важнейший ингредиент, **погружение** . **Погружением** называется чтение или прослушивание контента, созданного для носителей языка. К примеру, аниме изначально на японском без субтитров, следовательно просмотр его в этой форме мы называем погружением.   
 
-## 1.2 Problems with traditional methods
+## 1.2 Проблемы с традиционными методами
 
 ![study_wakaranai_boy](img/study_wakaranai_boy.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
 
-A Japanese learner following a “traditional” study method would usually go through the following steps:
+Изучающий японский язык, идущий по “традиционному” пути обычно пройдет через следующие шаги:
 
-- Learning the alphabet(s).
-- Learning basic sentences such as greetings and self-introductions.
-- Learning basic grammar structure and vocabulary.
-- Coming up with sentences either by having conversations with a tutor or study partner, or by writing.
-- Translating example sentences from their native language to their target language and vice versa.
-- Looking up further material about grammar structures and vocabulary in textbooks or YouTube videos recommended by a tutor.
-- Practising conversation using knowledge from their study.
-- Accumulating more vocabulary and grammar structures, which becomes a measure of one’s own progress
-- And finally, in the endgame, moving to or visiting Japan in hopes of having opportunities to practise their skills.
+- Изучение алфавита или алфавитов.
+- Изучение базовых предложений, таких как приветствия и самопредставления.
+- Изучение словарного запаса, а также основных структур грамматики.
+- Составление предложений через разговор с преподавателем/партнёром по обучению, или посредством письма.
+- Перевод примеров с родного языка на изучаемый и наоборот.
+- Поиск углублённого материала о грамматических структурах и словарном запасе в учебниках, или в видео на YouTube, рекомендованных преподавателем..
+- Практика устной речи, опираясь на знания, полученные при обучении.
+- Дальнейшее накопление словарного запаса и грамматических структур, по которым человек начинает измерять свой прогресс.
+- И в конце концов поездка или переезд в Японию, с надеждами на то, что будет возможность применить свои навыки на практике. 
 
 None of that is bad in itself, it is actually sufficient study, but it's not enough to get you to a high level of proficiency. The problem is they aren't actually engaging with the real language—but what do I mean by that?
 
@@ -98,7 +98,7 @@ So, the only way you are going to get used to everything is by coming to terms w
 
 Of course, you will not be *only* doing immersion with no aid at all. You will study things like grammar and starter vocabulary on the side, and use dictionaries to learn the words from your immersion.  
 
-## 2.1 How to learn Japanese
+## 2.1 How to bla
 
 ### Beginner study process 
 The learning process for the beginner consists of:
@@ -443,4 +443,4 @@ pedipanol
 ultravioletspring  
 deviru  
 kazuhira___  
-marv.n  
+marv.n 

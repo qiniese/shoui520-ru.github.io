@@ -1,7 +1,9 @@
-# Before you do that...
+# Прежде чем вы это сделаете...
 
-Have you read the site? Please read the site before joining the Discord.
+Прочитали ли Вы сайт? Пожалуйста, прочтите его, прежде чем присоединяться в Дискорд-сервер.
 
-Have a read of the site before asking any questions in the Discord. **We have a search bar.** If you couldn't find your answer then by all means, ask away in our Discord.
+Пробежитесь по сайту, прежде чем задавать любые вопросы в Дискорде. **У нас есть поисковая строка.** Если вы не смогли найти ответ на Ваш вопрос, то пожалуйста, спрашивайте сколько душе угодно в нашем Дискорд-сервере.
 
-**[I understand, take me to the Discord!](https://discord.gg/nhqjydaR8j)**
+**Внимание!** Сервер является англоязычным, уважайте других участников и следуйте правилам.
+
+**[Я понимаю, пустите меня в Дискорд!](https://discord.gg/nhqjydaR8j)**
