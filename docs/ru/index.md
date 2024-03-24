@@ -1,10 +1,8 @@
 ![welcome](img/welcome.png){:  style="display: block; margin: 0 auto; max-width:100%; height:auto;" }
 
-#Здравствуйте :)
-Привет, добро пожаловать на мой сайт. :smirk_cat:
+#Hello :)
+Hi, welcome to my site. :smirk_cat:
 
-Здесь вы сможете *выучить, как учить* японский правильно. Нажмите на кнопку ниже, чтобы начать! ^^
+You can *learn how to learn* Japanese properly here. Click on the button below to get started! ^^
  
-[:fontawesome-solid-book-open: Прочитать руководство! ](/guide){: .md-button .md-button--primary }  
-
-
+[:fontawesome-solid-book-open: Read the guide! ](/guide){: .md-button .md-button--primary }  
